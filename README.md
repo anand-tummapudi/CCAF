@@ -1,7 +1,7 @@
 # CCAF Study Notes
 
-- [Claude](docs/claude.md)
+- [Claude](claude.md)
 
-- [CCAF Certification Guide](docs/ccaf.md)
+- [CCAF Certification Guide](ccaf.md)
 
 
